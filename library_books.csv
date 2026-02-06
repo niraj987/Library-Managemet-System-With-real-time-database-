@@ -1,0 +1,13 @@
+title,author,price,quantity,department
+Introduction to algorithms,Thomas H,850,10,CSE
+Data Structures and alogithms,Mark Allen Weise,1000,10,CSE
+Computer Networks ,Andrew S. Tanenbaum,500,7,CSE
+Opearating System,"Silberschatz, galvin and gagne",1500,10,CSE
+Database System Concept,Abraham Silberschatz,2000,10,CSE
+Artificial Intelligence,Stuart Russel and Peter Norvig,4500,10,CSE
+Clean Code,Robert C. Martin,540,10,CSE
+Python Programming,John Zelle,7800,10,CSE
+Computer Organization and Design,David A. Patterson,600,10,CSE
+Software Engineering,Ian Sommerville,900,10,CSE
+Data Analysis from Scratch,John Doew,650,10,CSE
+Design And Analysis of Alogithms,Xyz abc,750,10,CSE

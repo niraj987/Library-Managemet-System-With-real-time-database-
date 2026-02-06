@@ -1,0 +1,6 @@
+user_id,title,borrow_date,due_date,returned,fine
+112,Introduction to algorithms,2026-02-06 10:36,2026-02-16 10:36,True,0.0
+101,Computer Networks ,2026-02-06 10:38,2026-02-16 10:38,False,0.0
+115,Computer Networks ,2026-02-06 10:56,2026-02-16 10:56,False,0.0
+116,Computer Networks ,2026-02-06 11:03,2026-02-16 11:03,True,0.0
+120,Computer Networks ,2026-02-06 11:39,2026-02-11 11:39,False,0.0
